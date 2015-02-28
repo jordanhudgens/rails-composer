@@ -1,6 +1,6 @@
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Composer)! Rails Composer
 
-An application template that creates starter applications for Rails 4.2.
+The initial build out of a web framework generator, forking off the functionality of Rails Composer
 
 It's the Rails generator on steroids.
 
